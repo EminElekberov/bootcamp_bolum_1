@@ -1,0 +1,7 @@
+E:\sems\c#\giris\atm projesi\bin\Debug\atm projesi.exe.config
+E:\sems\c#\giris\atm projesi\bin\Debug\atm projesi.exe
+E:\sems\c#\giris\atm projesi\bin\Debug\atm projesi.pdb
+E:\sems\c#\giris\atm projesi\obj\Debug\atm projesi.csprojAssemblyReference.cache
+E:\sems\c#\giris\atm projesi\obj\Debug\atm projesi.csproj.CoreCompileInputs.cache
+E:\sems\c#\giris\atm projesi\obj\Debug\atm projesi.exe
+E:\sems\c#\giris\atm projesi\obj\Debug\atm projesi.pdb
